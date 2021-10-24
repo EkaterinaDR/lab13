@@ -135,6 +135,7 @@ body{
 }
 .texs{
   font-size: 30px;
+  background-color: rgb(0,0,0,0.5);
   color: #fff;
   font-weight: 600;
   margin-right: 5%;
